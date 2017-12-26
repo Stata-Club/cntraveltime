@@ -1,0 +1,4 @@
+v 1
+d cntraveltime Author: Chuntao Li & Yuan Xue & Xueren Zhang
+
+p CNTRAVELTIME: Stata module to extract the time needed for traveling between two locations specified from Baidu Map API
